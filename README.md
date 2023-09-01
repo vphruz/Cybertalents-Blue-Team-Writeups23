@@ -5,7 +5,7 @@ Writeups / Walkthroughs of the labs solved during the program
 |:-:|:-------------:|:----------:|:------:|:-------------------------------------------------:|
 |		|               |            |        |                                                   |
 |	1	|Competition    |   Basic    |   25   |        CTF, Google                       |
-|	2	|CVE-Number			|   Basic    |   25   |        EternalBlue                  |
+|	2	|CVE-Number			|   Basic    |   25   |        CVE, EternalBlue                  |
 |	3	|Smart-Role			|   Basic    |   25   |        SOC                          |
 |	4	|Backdoor				|   Medium   |   100  |        Network Security, vsftpd 2.3.4, Wireshark                   | 
 |	5	|Creepy-DNS    	|   Easy   	 |   50   |        DNS, Network Security, Tshark, Wireshark     |    
