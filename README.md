@@ -10,7 +10,7 @@ Writeups / Walkthroughs of the labs solved during the program
 |	4	|Backdoor				|   Medium   |   100  |        Network Security, vsftpd 2.3.4, Wireshark                   | 
 |	5	|Creepy-DNS    	|   Easy   	 |   50   |        DNS, Network Security, Tshark, Wireshark     |    
 |	6	|WormSeen				|   Medium   |   100  |        Endpoint Security Exe Analysis, Forensic, Python             |	
-|	7	|Bean    				|   Easy     |   50   |        LFI, Web                                   |
+|	7	|Bean    				|   Easy     |   50   |        Ngix directory traversal                                   |
 |	8	|Bean Detector	|   Medium   |   100  |        Log analysis, Forensic, Web                | 
 |	9 |Pass-Reset  		|   Easy   	 |   50   |        File Misconfiguration, Web                 |
 |	10|SIEM Port			|   Basic    |   25   |        SIEM, TLS                                  |
