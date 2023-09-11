@@ -23,7 +23,7 @@ Writeups / Walkthroughs of the labs solved during the program
 |	16|[Scanner](./scanner.md)    		 |   Easy     |   50   |                          |
 |	17|[New account](./new-account.md) |   Easy     |   50   |                        | 
 |	18|[Active Attacks](./active-attacks.md) |   Easy     |   50   |                         |
-|	19|[Brut3 Forc3](./brut3-forc3.md	 |   Medium   |   100  |                                          |
+|	19|[Brut3 Forc3](./brut3-forc3.md) |   Medium   |   100  |                                          |
 
 
 
