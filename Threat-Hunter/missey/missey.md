@@ -27,7 +27,8 @@ xxd is a tool for creating a hex dump and vice versa</br>
 this done to get a hexdump. when you compare the tcp payload and the hex value on wireshark, it should match up.</br>
 ![proof](./img3.png)</br>
 ![result after running the first 2 commands ](./img4.png)</br>
-![final result](./img5.png)
 we find the flag in the final dump</br>
+![final result](./img5.png)
+
 # Flag
 FLAG{M15SED_INBY7$}
