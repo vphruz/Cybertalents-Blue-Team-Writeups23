@@ -13,6 +13,7 @@ we open up our terminal for easier processing and type in this command. </br>
 ```tshark -r ARP+Storm.pcap -e "arp" -T fields | cut -d " " -f 5 | cut -c 3-6 | xxd -r -p ```</br>
 
 command breakdown:</br>
+| - this character is known as "pipe". it is used for chaining commands together. it passes the output of the previous commmand as the input for the next one, like water flowing through a pipe<./br>
 tshark is a command line tool for analyzing network traffic.</br>
 -r option specifies the file to read.</br> 
 -e option selects the field to print which in our case is ARP.</br> 
@@ -30,7 +31,7 @@ we use cut again to remove the unwanted characters like the '0x' and the closing
 -c option selects the characters to display. if we count the characters in the previous output we discover there are 7 characters and we make our selection (3-6) to get this:</br>
 ![result after chaining the first 3 commands]](./img4.png)</br>
 </br>
-xxd is a tool for converting hex to binary and vice versa</br>
+xxd is a tool for creating a hex dunmp and vice versa</br>
 -r option is used to convert our hex to binary </br>
 -p option makes the output to be a continuous line</br>
 ![result after chaining the 4 commands](./img5.png)</br>
