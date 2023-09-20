@@ -15,15 +15,16 @@ Writeups / Walkthroughs of the labs solved during the program
 |	8	|[Refresher](./refresher/refresher.md)	   |   Medium   |   100  |             Network Security, Wireshark          | 
 |	9 |[Exodus](./eXodus.md) 		       |   Medium 	|   100  |          Network Security, icmp exfiltration          |
 |	10|[Missey](./missey/missey.md)			     |   Easy     |   50   |       Network Security,     wireshark   |
-|	11|[Baseline](./baseline/baseline.md)	     |   Easy     |   50   |    Digital Forensics, powershell          |
-| 12|[Arson](./arson.md)    	       |   Medium   |   100  |         Network Security, powershell      |
-|	13|[Process](./process.md)    	   |   Basic    |   25   |             General Information, windows processes       |
-|	14|[W4nna fl4g](./w4nna-flag)			 |   Medium   |   100  |   Digital Forensics, windows processes        | 
-|	15|[Masqur4de](./masqur4de.md)     |   Medium   |   100  |        Digital Forensics, windows processes                |
-|	16|[Scanner](./scanner/scanner.md)    		 |   Easy     |   50   |       Digital Forensics, windows events      |
-|	17|[New account](./new-account/new-account.md) |   Easy     |   50   |      Digital Forensics, windows events                 | 
-|	18|[Active Attacks](./active-attacks.md) |   Medium     |   50   |       Digital Forensics, windows events                   |
-|	19|[Brut3 Forc3](./brut3-forc3.md) |   Medium   |   100  |          Digital Forensics, windows events              |
+|	11|[Zeek-zag](./zeek-zag/zeek-zag.md)			     |   Medium     |   100   |       Network Security, Zeek, Wireshark   |
+|	12|[Baseline](./baseline/baseline.md)	     |   Easy     |   50   |    Digital Forensics, powershell          |
+| 13|[Arson](./arson.md)    	       |   Medium   |   100  |         Network Security, powershell      |
+|	14|[Process](./process.md)    	   |   Basic    |   25   |             General Information, windows processes       |
+|	15|[W4nna fl4g](./w4nna-flag)			 |   Medium   |   100  |   Digital Forensics, windows processes        | 
+|	16|[Masqur4de](./masqur4de.md)     |   Medium   |   100  |        Digital Forensics, windows processes                |
+|	17|[Scanner](./scanner/scanner.md)    		 |   Easy     |   50   |       Digital Forensics, windows events      |
+|	18|[New account](./new-account/new-account.md) |   Easy     |   50   |      Digital Forensics, windows events                 | 
+|	19|[Active Attacks](./active-attacks.md) |   Medium     |   50   |       Digital Forensics, windows events                   |
+|	20|[Brut3 Forc3](./brut3-forc3.md) |   Medium   |   100  |          Digital Forensics, windows events              |
 
 
 
