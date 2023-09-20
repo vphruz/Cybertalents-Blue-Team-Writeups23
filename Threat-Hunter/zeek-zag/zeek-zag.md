@@ -17,7 +17,7 @@ we get: ![zeek output](./img2.png)</br>
 we get a dns.log file</br>
 opening the dns.log file we get this:</br>
 ![dns.log](./img3.png)</br>
-from this we understand that the id.resp_h field gives the ip address of the dns server because it provides the response. [proof](https://docs.zeek.org/en/master/logs/dns.html)</br>
+from this we understand that the id.resp_h field gives the ip address of the dns server because it provides the response. (proof)[https://docs.zeek.org/en/master/logs/dns.html]</br>
 we get our flag to be 172.16.0.52</br>
 </br>
 <!-- method 2</br>
