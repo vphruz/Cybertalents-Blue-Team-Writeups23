@@ -9,10 +9,10 @@ Writeups / Walkthroughs of the labs solved during the program
 |03|[Smart-Role](./smartrole.md)	|   Basic    |   25   |        SOC                          |
 |04|[Backdoor](./BackDoor/backdoor.md)|   Medium   |   100  |        Network Security, vsftpd 2.3.4, Wireshark   | 
 |05|[Creepy-DNS](./CreepyDNS/creepyDNS.md) |   Easy   	 |   50   |        DNS, Network Security, Tshark, Wireshark     |    
-|06|[WormSeen](./WormSeen/wormseen.md)|   Medium   |   100  |  Endpoint Security Exe Analysis, Forensic, Python   |	
-|07|[Bean](./Bean/bean.md) 	|   Easy     |   50   |        Ngix directory traversal    |
+|06|[WormSeen](./WormSeen/wormseen.md)|   Medium   |   100  |  Endpoint Security, Exe Analysis, Forensic, Python   |	
+|07|[Bean](./Bean/bean.md) 	|   Easy     |   50   |       Direcory bruteforce Ngix directory traversal    |
 |08|[BeanDetector](./BeansDetector/beansdetector.md)|   Medium   |   100  |        Log analysis, Forensic, Web  | 
-|09|[PassReset](./PassReset/passreset.md) 	|   Easy   	 |   50   |        File Misconfiguration, Web                 |
+|09|[PassReset](./PassReset/passreset.md) 	|   Easy   	 |   50   |        Email analysis                 |
 |10|[SIEM-Port](./SIEMPort.md)	|   Basic    |   25   |        SIEM, TLS            |
 |11|[RemoteHacker](./RemoteHacker/remotehacker.md)	|   Medium   |   100  |        Forensic, Logs Analysis, Windows logs      |
 |12|[FourOFour](./FourOFour/fourofour.md) |   Easy   	 |   50   |        Splunk,  Web Security        |
