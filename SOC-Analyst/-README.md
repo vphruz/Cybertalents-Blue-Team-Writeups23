@@ -4,20 +4,20 @@ Writeups / Walkthroughs of the labs solved during the program
 |No |   Challenges  | Difficulty | Points |                        Tags                       |  
 |:-:|:-------------:|:----------:|:------:|:-------------------------------------------------:|
 |		|               |            |        |                                                   |
-|	1	|Competition    |   Basic    |   25   |        CTF, Google                       |
-|	2	|CVE-Number			|   Basic    |   25   |        CVE, EternalBlue                  |
-|	3	|Smart-Role			|   Basic    |   25   |        SOC                          |
-|	4	|Backdoor				|   Medium   |   100  |        Network Security, vsftpd 2.3.4, Wireshark                   | 
-|	5	|Creepy-DNS    	|   Easy   	 |   50   |        DNS, Network Security, Tshark, Wireshark     |    
-|	6	|WormSeen				|   Medium   |   100  |        Endpoint Security Exe Analysis, Forensic, Python             |	
-|	7	|Bean    				|   Easy     |   50   |        Ngix directory traversal                                   |
-|	8	|Bean Detector	|   Medium   |   100  |        Log analysis, Forensic, Web                | 
-|	9 |Pass-Reset  		|   Easy   	 |   50   |        File Misconfiguration, Web                 |
-|	10|SIEM Port			|   Basic    |   25   |        SIEM, TLS                                  |
-|	11|Remote Hacker	|   Medium   |   100  |        Forensic, Logs Analysis, Windows logs      |
-| 12|FourOFour    	|   Easy   	 |   50   |        Splunk,  Log, IIS Server,Microsoft         |
-|	13|55H-Access    	|   Easy     |   50   |        Splunk, Forensic, SSH                      |
-|	14|USB-Case				|   Easy     |   50   |        Splunk, USB Device                         | 
-|	15|MEGO     			|   Medium   |   100  |        Forensic, Volatility, Disc                 |
-|	16|Phisher    		|   Medium   |   100  |        Foresic, Disc, Volatility                  |
+|01|[Competition](./competition.md)|   Basic    |   25   |        CTF, Google                       |
+|02|[CVE-Number](./CVE-Number.md)  |   Basic    |   25   |        CVE, EternalBlue                  |
+|03|[Smart-Role](./Smart-Role.md)	|   Basic    |   25   |        SOC                          |
+|04|[Backdoor](./BackDoor/backdoor.md)|   Medium   |   100  |        Network Security, vsftpd 2.3.4, Wireshark   | 
+|05|[Creepy-DNS](./CreepyDNS/creepyDNS.md) |   Easy   	 |   50   |        DNS, Network Security, Tshark, Wireshark     |    
+|06|[WormSeen](./WormSeen/wormSeen.md)|   Medium   |   100  |  Endpoint Security Exe Analysis, Forensic, Python   |	
+|07|[Bean](./Bean/bean.md) 	|   Easy     |   50   |        Ngix directory traversal    |
+|08|[BeanDetector](./BeansDetector/beansdetector.md)|   Medium   |   100  |        Log analysis, Forensic, Web  | 
+|09|[PassReset](./PassReset/passreset.md) 	|   Easy   	 |   50   |        File Misconfiguration, Web                 |
+|10|[SIEM-Port](./SIEMPort.md)	|   Basic    |   25   |        SIEM, TLS            |
+|11|[RemoteHacker](./RemoteHacker/remotehacker.md)	|   Medium   |   100  |        Forensic, Logs Analysis, Windows logs      |
+|12|[FourOFour](./FourOFour.md) |   Easy   	 |   50   |        Splunk,  Web Security        |
+|13|[55H-Access](./55h-Access.md) |   Easy     |   50   |        Splunk, Forensic, SSH                      |
+|14|[USB-Case](./USB-case.md)|   Easy     |   50   |        Splunk, USB Device                         | 
+|15|[MEGO](./mego.md)  |   Medium   |   100  |        Forensic, Volatility, Disc                 |
+|16|[Phisher](./phisher.md) |   Medium   |   100  |        Foresic, Disc, Volatility                  |
 

@@ -9,5 +9,5 @@ there are refragmented imcp packets with a size 1516 bytes to an ip of 45.33.32.
 ![wireshark](./img1.png)
 a virustotal search of this ipaddress shows that it's malicioius
 we get data from it using this tshark command ```tshark -r eXodus.pcapng -Y icmp -T fields -e data.data > output.txt```
-the data is xor encoded and needs to be convreted to binary 
+the data is xor encoded and needs to be converted to binary 
 # Flag
