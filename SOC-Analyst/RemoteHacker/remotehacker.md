@@ -15,6 +15,6 @@ Download the file.
 Uncompress the file. It contains 2 log files. Open the first file. 
 For this challenge, an idea of windows login codes will be needed. 
 A network logon is a logon type 3 and  an event id of 4624 is generated every time there is a successful logon. learn more [here] (https://www.manageengine.com/products/active-directory-audit/learn/what-are-logon-types.html) and [here](https://learn.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types) 
-So we can sort by event id then by logon type on 13/06/22 for the user kvasir
+So we can sort by event id then by logon type on 13/06/22 for the user kvasir according to the question
 
 # Flag
