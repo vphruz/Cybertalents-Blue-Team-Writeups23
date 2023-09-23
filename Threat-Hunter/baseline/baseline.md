@@ -23,5 +23,17 @@ a letter (a for add, c for change, or d for delete), and
 line numbers corresponding to the second file. culled from [here](https://www.computerhope.com/unix/udiff.htm)</br>
 it simply tells us we need to add "notepad" to the baseline file, which means that it's not there and we should add "SearchProtocolHost" to both files however on different lines.</br>
 we're looking for the different process in both files. notepad is the culprit because "SearchProtocolHost" exists on both files just on different lines but notepad on exist on the processes file. so we get our flag.</br>
+
+
+using powershell(as intended)</br>
+download and extract the zip file</br>
+open powershell and 'cd' to the directory where the files are located. declare them as variables and compare them?</br>
+using these commands, you'll get the flag</br>
+
+```$baseline = Get-Content baseline.txt```</br>
+```$processes = Get-Content processes.txt```</br>
+```Compare-Object $baseline $processes```</br>
+
+![powershell](./img2.png)</br>
 # Flag
 FLAG{notepad}

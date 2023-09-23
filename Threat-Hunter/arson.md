@@ -1,7 +1,0 @@
-# Category
-
-# Description
-
-# Solution 
-
-# Flag
