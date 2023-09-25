@@ -13,7 +13,7 @@ Writeups / Walkthroughs of the labs solved during the program
 |	6	|[Falcon hunt](./falcon-hunt/falcon-hunt.md) |   Medium   |   100  |          Network Security, Kestrel           |	
 |	7	|[Encoded](./encoded/enc0ded.md)   	 |   Easy     |   50   |          Network Security, ARP poisoning(spoofing)         |
 |	8	|[Refresher](./refresher/refresher.md)	   |   Medium   |   100  |             Network Security, Wireshark          | 
-|	9 |[Exodus](./eXodus.md) 		       |   Medium 	|   100  |          Network Security, icmp exfiltration          |
+|	9 |[Exodus](./eXodus/eXodus.md) 		       |   Medium 	|   100  |          Network Security, icmp exfiltration          |
 |	10|[Missey](./missey/missey.md)			     |   Easy     |   50   |       Network Security,     wireshark   |
 |	11|[Zeek-zag](./zeek-zag/zeek-zag.md)			     |   Medium     |   100   |       Network Security, Zeek, Wireshark   |
 |	12|[Baseline](./baseline/baseline.md)	     |   Easy     |   50   |    Digital Forensics, powershell          |
