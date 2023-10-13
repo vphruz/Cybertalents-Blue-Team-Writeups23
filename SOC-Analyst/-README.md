@@ -18,6 +18,6 @@ Writeups / Walkthroughs of the labs solved during the program
 |12|[FourOFour](./FourOFour/fourofour.md) |   Easy   	 |   50   |        Splunk,  Web Security        |
 |13|[55H-Access](./55h-Access/55h-Access.md) |   Easy     |   50   |        Splunk, Forensic, SSH                      |
 |14|[USB-Case](./USB-case/USB-case.md)|   Easy     |   50   |        Splunk, USB Device                         | 
-|15|[MEGO](./mego.md)  |   Medium   |   100  |        Forensic, Volatility, Disc                 |
-|16|[Phisher](./phisher.md) |   Medium   |   100  |        Foresic, Disc, Volatility                  |
+|15|[MEGO](./Mego.md)  |   Medium   |   100  |        Forensic, Volatility, Disc                 |
+|16|[Phisher](./Phisher.md) |   Medium   |   100  |        Foresic, Disc, Volatility                  |
 
