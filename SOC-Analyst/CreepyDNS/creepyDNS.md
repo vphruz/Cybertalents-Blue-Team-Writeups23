@@ -35,24 +35,24 @@ The second option “-Y” is a display filter which shows only particular packe
 ```
 cut -d "." -f 2
 ```
-– the cut command cuts bytes, characters, or fields from each line of a file and displays them on the terminal. The “-d” option selects the delimiter. In our case it is a full stop (.).</br>
+the cut command cuts bytes, characters, or fields from each line of a file and displays them on the terminal. The “-d” option selects the delimiter. In our case it is a full stop (.).</br>
  
 The final option “-f” is called the list which specifies fields separated by the initial field delimiter.</br>
 
 ```
 awk '{print substr($0,length($0),1)}'
 ```
-– awk command is used for pattern scanning and processing. This command prints out the last character in each line.</br>
+awk command is used for pattern scanning and processing. This command prints out the last character in each line.</br>
 
 ```
 Uniq
 ```
-– it is a command line utility that filters out repeated lines in a file.</br>
+it is a command line utility that filters out repeated lines in a file.</br>
 
 ```
 base64 -d
 ```
-– the final string after our text processing is in base64 so the option “-d” is to decode it to plain ascii then we get our flag.</br>
+the final string after our text processing is in base64 so the option “-d” is to decode it to plain ascii then we get our flag.</br>
 
 ![terminal](./img2.png)
 # Flag
