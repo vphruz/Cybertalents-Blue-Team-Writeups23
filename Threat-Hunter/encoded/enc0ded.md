@@ -10,7 +10,10 @@ We see a bunch of arp packets with different opcodes. This could contain the fla
 ![screenshot](./img1.png)</br>
 we open up our terminal for easier processing and type in this command. </br>
 
-```tshark -r ARP+Storm.pcap -e "arp" -T fields | cut -d " " -f 5 | cut -c 3-6 | xxd -r -p ```</br>
+```
+tshark -r ARP+Storm.pcap -e "arp" -T fields | cut -d " " -f 5 | cut -c 3-6 | xxd -r -p
+```
+</br>
 
 command breakdown:</br>
 | - this character is known as "pipe". it is used for chaining commands together. it passes the output of the previous commmand as the input for the next one, like water flowing through a pipe<./br>
