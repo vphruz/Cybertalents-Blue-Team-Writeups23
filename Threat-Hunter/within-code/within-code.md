@@ -11,21 +11,27 @@ We need to write a yara rule to find the flag. </br>
 From the description we deduce that the flag is encoded so in our yara rule we include the 2 common types of encoding base 64 and hex</br> 
 so we write the following rule:</br>
 
-```“rule finder
+```
  {
 Strings:
 	$base_64 = “RmxhZw==”
 	$hex = {526d78685a773d3d}
 Condition: 
 	$base_64 or $hex
- }”```</br>
+ }
+```
+</br>
 
 ![yara rule](./img1.png)</br>
 
 Save it with a .yara extentension.</br> 
 It’s advisable to save it in the same folder as the other files so as to not deal with path issues when running the command </br>
 
-Run ```yara -s [rule name] [target]```
+Run:
+
+```
+yara -s [rule name] [target]
+```
 
 ![command output](./img2.png)
 The -s option gives us the location of the hex value or base64 value in the file. We get this</br>
